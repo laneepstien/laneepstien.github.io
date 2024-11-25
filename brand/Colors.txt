@@ -1,0 +1,5 @@
+Orange:#F96538
+Yellow:#F79D48
+Green:#61AA89
+Blue:#5C77DA
+Warm White:#F5EBE0

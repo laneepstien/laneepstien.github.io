@@ -1,0 +1,18 @@
+body  {
+    background-color: #F5EBE0;
+}
+
+#log {
+    width:  600px;
+    margin:auto;
+    padding:20px;
+    border-style: outset;
+    border-radius: 10px;
+    border-color: #000000;
+
+}
+
+#logTitle {
+    font-weight: bold;
+
+}
